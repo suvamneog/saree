@@ -1,0 +1,6 @@
+{
+  "name": "SareeAura",
+  "description": "Tradition in every drape. An editorial online boutique for handcrafted Banarasi, Kanjivaram, Silk, Cotton, Georgette, and Handloom sarees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
